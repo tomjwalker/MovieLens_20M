@@ -1,3 +1,3 @@
 # MovieLens
 
-$$/hat{r_{ui}}$$
+$/hat{r_{ui}}$
